@@ -74,5 +74,7 @@ El desarrollo se desglosa en los siguientes módulos e hitos técnicos:
 3. Para preparar el empaquetado final reduciendo significativamente el peso del archivo, ejecuta el comando de limpieza desde el menú del IDE:
    ```bash
    Build > Clean Project```
-   
+---   
   *Desarrollado como parte del módulo de Programación de Multimedia y Dispositivos Móviles (PMDM).*
+  
+ ---
