@@ -4,7 +4,7 @@ Aplicación móvil nativa para Android desarrollada en **Kotlin** como parte del
 
 A continuación se detalla la guía visual de referencia para el diseño de la aplicación (`image_8f9a28.png`):
 
-![Wireframe de la aplicación](image_8f9a28.jpg)
+![Wireframe de la aplicación](image_8f9a28.png)
 
 **Autora:** Irene Condado Alcantarilla.
 
