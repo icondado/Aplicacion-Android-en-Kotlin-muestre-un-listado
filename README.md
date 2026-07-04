@@ -76,5 +76,3 @@ El desarrollo se desglosa en los siguientes módulos e hitos técnicos:
    Build > Clean Project```
 ---   
   *Desarrollado como parte del módulo de Programación de Multimedia y Dispositivos Móviles (PMDM).*
-  
- ---
