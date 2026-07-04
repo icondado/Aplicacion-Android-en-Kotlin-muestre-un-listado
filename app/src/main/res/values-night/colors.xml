@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores básicos -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- COLORES TEMA OSCURO -->
+    <color name="grey">#2C2C2C</color>
+    <color name="primary_green">#345F37</color>
+    <color name="primary_grey">#3C3B3B</color>
+    <color name="secondary_color">#FF018786</color>
+    <color name="background_light">#494646</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="PikminCardStyle">#9BA6A5</color>
+</resources>

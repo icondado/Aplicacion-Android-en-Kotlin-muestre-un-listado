@@ -1,0 +1,36 @@
+<resources>
+    <!-- IDIOMA = ESPAÑOL -->
+    <string name="app_name">Tarea2_CondadoAlcantarilla_Irene</string>
+    <string name="vista1_imagen">Imagen Familia Pikmin</string>
+    <string name="vista1_bienvenido">¡Bienvenido!</string>
+    <string name="vista1_acceder">Acceder</string>
+    <string name="imagen_pikmin">Imagen pikmin</string>
+    <string name="pikmin">Pikmin</string>
+    <string name="pikmin_rojo">Pikmin rojo</string>
+    <string name="descripcion">Descripción</string>
+    <string name="descripcion_del_pikmin">Descripción del pikmin</string>
+    <string name="acerca_de">Acerca de…</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="idioma">Idioma</string>
+    <string name="espanol">Español</string>
+    <string name="ingles">Inglés</string>
+    <string name="tema">Tema</string>
+    <string name="claro">Claro</string>
+    <string name="oscuro">Oscuro</string>
+    <string name="acerca_mensaje">Aplicación desarrollada por: \nIrene Condado Alcantarilla. \nVersión 1.0.</string>
+    <string name="ok">OK</string>
+    <string name="detalle_pikmin">Detalle Pikmin</string>
+    <string name="Snackbar">"¡Bienvenidos al mundo Pikmin!"</string>
+    <string name="toast_seleccion">Se ha seleccionado el %1$s</string>
+
+    <!-- Descripciones de Pikmin -->
+    <string name="desc_pikmin_rojo">De color escarlata y naturaleza combativa, los Pikmin rojos son curiosos, muy adaptables y completamente resistentes al fuego, lo que los hace ideales para ambientes de alta temperatura.</string>
+    <string name="desc_pikmin_amarillo">De color amarillo y con orejas que mejoran su agilidad, los Pikmin amarillos pueden cavar rápido, alcanzar mayor altura al ser lanzados y son completamente inmunes a la electricidad.</string>
+    <string name="desc_pikmin_azul">De cuerpo azul y aspecto sereno, los Pikmin azules respiran bajo el agua gracias a sus branquias, lo que les permite moverse con facilidad tanto en ecosistemas acuáticos como terrestres.</string>
+    <string name="desc_pikmin_morado">Robustos y pesados, los Pikmin morados poseen una fuerza diez veces superior a la de otros Pikmin, lo que los hace ideales para tareas de gran potencia y para aturdir enemigos al impactar.</string>
+    <string name="desc_pikmin_blanco">Pequeños y veloces, los Pikmin blancos son inmunes al veneno y segregan toxinas que dañan a los enemigos, lo que los convierte en un tipo peligroso si es ingerido.</string>
+    <string name="desc_pikmin_petreo">Con un cuerpo pétreo extremadamente duro, estos Pikmin pueden romper cristales y son inmunes a ser aplastados, gracias a su naturaleza fusionada con la piedra.</string>
+    <string name="desc_pikmin_alado">Ligeros y de color rosado, los Pikmin alados pueden volar sobre obstáculos y agua, desplazándose con gran agilidad aunque con ataques de bajo daño.</string>
+    <string name="desc_pikmin_gelido">Con un núcleo de baja temperatura, los Pikmin gélidos generan hielo continuamente, pudiendo congelar enemigos y superficies gracias a su cuerpo helado.</string>
+    <string name="desc_pikmin_luminoso">De cuerpo verde brillante, los Pikmin luminosos brillan en la oscuridad y pueden teletransportarse, siendo especialmente útiles en misiones nocturnas.</string>
+</resources>

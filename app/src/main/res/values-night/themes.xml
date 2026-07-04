@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Tema Oscuro -->
+    <style name="Base.Theme.Tarea2_CondadoAlcantarilla_Irene" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/primary_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_green</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+
+    <style name="Theme.Tarea2_CondadoAlcantarilla_Irene" parent="Base.Theme.Tarea2_CondadoAlcantarilla_Irene" />
+
+</resources>

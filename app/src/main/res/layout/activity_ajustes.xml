@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/AjustesLinearLayout"
+    android:fitsSystemWindows="true">
+
+    <!-- Barra de herramientas (Toolbar) para los ajustes -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBarAjustes"
+        style="@style/AjustesToolbar" />
+
+    <!-- Título para el Spinner de idioma -->
+    <TextView
+        style="@style/AjustesTextView"
+        android:text="@string/idioma" />
+    <!-- Spinner para seleccionar el idioma -->
+    <Spinner
+        android:id="@+id/spinnerIdioma"
+        style="@style/AjustesSpinner" />
+
+    <!-- Título para el Spinner de tema -->
+    <TextView
+        style="@style/AjustesTextView"
+        android:text="@string/tema" />
+    <!-- Spinner para seleccionar el tema -->
+    <Spinner
+        android:id="@+id/spinnerTema"
+        style="@style/AjustesSpinner" />
+
+</LinearLayout>

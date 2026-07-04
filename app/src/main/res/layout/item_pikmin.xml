@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardViewPikmin"
+    style="@style/PikminCardStyle">
+
+    <!-- LinearLayout dentro de la CardView que organiza los elementos de forma vertical -->
+    <LinearLayout style="@style/ItemLinearLayoutStyle"
+        tools:ignore="UseCompoundDrawables">
+
+        <!-- Imagen del Pikmin -->
+        <ImageView
+            android:id="@+id/imagePikmin"
+            style="@style/ImagenPikminStyle"
+            android:contentDescription="@string/imagen_pikmin" />
+
+        <!-- Nombre del Pikmin -->
+        <TextView
+            android:id="@+id/textNombrePikmin"
+            style="@style/NombrePikminStyle"
+            android:text="@string/pikmin_rojo" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

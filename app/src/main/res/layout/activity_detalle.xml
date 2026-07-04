@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ActivityDetalleBlackground"
+    android:fitsSystemWindows="true"
+    tools:context=".DetalleActivity">
+
+    <!-- Barra de herramientas (Toolbar) para los ajustes -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarDetalle"
+        style="@style/ToolbarStyle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Contenedor ScrollView que permite desplazarse por el contenido cuando no cabe en la pantalla -->
+    <ScrollView
+        style="@style/ScrollViewStyle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbarDetalle">
+
+        <!-- CardView que contiene el contenido principal del Pikmin-->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardViewDetalle"
+            style="@style/DetalleCardStyle">
+
+            <!-- LinearLayout dentro del CardView para organizar el contenido de manera vertical -->
+            <LinearLayout style="@style/DetalleLinearLayoutStyle">
+
+                <!-- Imagen que representa el Pikmin -->
+                <ImageView
+                    android:id="@+id/imageDetallePikmin"
+                    style="@style/ImagenDetallePikminStyle"
+                    android:contentDescription="@string/imagen_pikmin" />
+
+                <!-- Texto que muestra el nombre del Pikmin -->
+                <TextView
+                    android:id="@+id/textDetalleNombre"
+                    style="@style/NombreDetallePikminStyle"
+                    android:text="@string/pikmin_rojo" />
+
+                <!-- Vista para separar secciones -->
+                <View style="@style/DivisorStyle" />
+
+                <!-- Texto que actúa como etiqueta para la sección de descripción -->
+                <TextView
+                    style="@style/EtiquetaSeccionStyle"
+                    android:text="@string/descripcion" />
+
+                <!-- Texto que muestra la descripción del Pikmin -->
+                <TextView
+                    android:id="@+id/textDetalleDescripcion"
+                    style="@style/DescripcionTextStyle"
+                    android:text="@string/descripcion_del_pikmin"
+                    tools:targetApi="o" /> <!-- Indicador de que esta vista es solo para previsualización en el editor de Android Studio, y que usa características de API 21 o superiores -->
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <!-- LANGUAGE = ENGLISH -->
+    <string name="app_name">Tarea2_CondadoAlcantarilla_Irene</string>
+    <string name="vista1_imagen">Pikmin Family Image</string>
+    <string name="vista1_bienvenido">Welcome!</string>
+    <string name="vista1_acceder">Access</string>
+    <string name="imagen_pikmin">Pikmin Image</string>
+    <string name="pikmin">Pikmin</string>
+    <string name="pikmin_rojo">Red Pikmin</string>
+    <string name="descripcion">Description</string>
+    <string name="descripcion_del_pikmin">Pikmin Description</string>
+    <string name="acerca_de">About…</string>
+    <string name="ajustes">Settings</string>
+    <string name="idioma">Language</string>
+    <string name="espanol">Spanish</string>
+    <string name="ingles">English</string>
+    <string name="tema">Theme</string>
+    <string name="claro">Light</string>
+    <string name="oscuro">Dark</string>
+    <string name="acerca_mensaje">Application developed by: \nIrene Condado Alcantarilla. \nVersion 1.0.</string>
+    <string name="ok">OK</string>
+    <string name="detalle_pikmin">Pikmin Detail</string>
+    <string name="Snackbar">"Welcome to the world Pikmin!"</string>
+    <string name="toast_seleccion">%1$s has been selected</string>
+
+    <!-- Pikmin Descriptions -->
+    <string name="desc_pikmin_rojo">With a scarlet color and combative nature, Red Pikmin are curious, highly adaptable, and completely fire-resistant, making them ideal for high-temperature environments.</string>
+    <string name="desc_pikmin_amarillo">With a yellow color and ears that enhance their agility, Yellow Pikmin can dig quickly, reach greater heights when thrown, and are completely immune to electricity.</string>
+    <string name="desc_pikmin_azul">With a blue body and serene appearance, Blue Pikmin breathe underwater thanks to their gills, allowing them to move easily in both aquatic and terrestrial ecosystems.</string>
+    <string name="desc_pikmin_morado">Robust and heavy, Purple Pikmin possess a strength ten times greater than other Pikmin, making them ideal for high-power tasks and stunning enemies upon impact.</string>
+    <string name="desc_pikmin_blanco">Small and fast, White Pikmin are immune to poison and secrete toxins that harm enemies, making them a dangerous type if ingested.</string>
+    <string name="desc_pikmin_petreo">With an extremely hard stone body, these Pikmin can break crystals and are immune to being crushed, thanks to their nature fused with stone.</string>
+    <string name="desc_pikmin_alado">Light and pink in color, Winged Pikmin can fly over obstacles and water, moving with great agility despite having low-damage attacks.</string>
+    <string name="desc_pikmin_gelido">With a low-temperature core, Ice Pikmin continuously generate ice, able to freeze enemies and surfaces thanks to their frozen body.</string>
+    <string name="desc_pikmin_luminoso">With a bright green body, Glow Pikmin shine in the dark and can teleport, being especially useful in night missions.</string>
+</resources>
