@@ -2,7 +2,7 @@
 
 Aplicación móvil nativa para Android desarrollada en **Kotlin** como parte del caso práctico para **BK Programación**. La aplicación consiste en un catálogo interactivo basado en la Piklopedia del universo Pikmin, donde se exploran conceptos avanzados de componentes de interfaz (UI), navegación, eventos, estilos centralizados, soporte multiidioma y la mejora de la experiencia de usuario (UX).
 
-A continuación se detalla la guía visual de referencia para el diseño de la aplicación (`image_8f9a28.jpg`):
+A continuación se detalla la guía visual de referencia para el diseño de la aplicación (`image_8f9a28.png`):
 
 ![Wireframe de la aplicación](image_8f9a28.jpg)
 
